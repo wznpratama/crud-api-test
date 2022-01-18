@@ -1,6 +1,6 @@
-GET https://swapi.dev/api/people/1
+GET https://gorest.co.in/public/v1/users/
 content-type: application/json
 
 {
-    
+    "gender" : "male"
 }
